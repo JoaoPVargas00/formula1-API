@@ -13,11 +13,3 @@ Este projeto é uma API simples construída com [Fastify](https://fastify.io/) q
 - [@fastify/cors](https://github.com/fastify/fastify-cors)
 
 ---
-
-## 📦 Instalação
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/formula1-api.git
-cd formula1-api
